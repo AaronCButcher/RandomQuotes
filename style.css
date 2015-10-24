@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+  width: 100%;
+  margin: 20% 0 0 0;
+}
+icon {
+  color: white;
+}
+.button {
+  width: 10%;
+  font-size: 120%;
+  border-radius: 90%;
+  margin: 5%;
+}
+.row {
+  font-size: 130%;
+  font-style: italic;
+}
+body {
+  background: #448;
+}
+table {
+  border: 10px solid black;
+  border-radius: 60%;
+}
